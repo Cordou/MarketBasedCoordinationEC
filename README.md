@@ -8,7 +8,7 @@ In this repository, we provide:
    
 # Electronic companion
 
-This document contains a detailed mathematical description of transforming the original bilevel model in a Mixed-Integer Linear Program (MILP) and additional results.
+This document contains a detailed mathematical description of transforming the original bilevel model in a Mixed-Integer Linear Program (MILP), further insights of the methodology and additional results.
 
 # Data file
 
